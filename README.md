@@ -26,9 +26,14 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 
 - run the following commands in your terminal: 
 
-``` git clone https://github.com/huntercbuxton/project1.git ```
-``` cd project1/proj1-client ```
-``` yarn start ```
+``` 
+git clone https://github.com/huntercbuxton/project1.git
+
+cd project1/proj1-client
+
+yarn start 
+
+```
 
 - open the backend project located in the project1/Project1 folder using intellij
 - run the App.main method  
